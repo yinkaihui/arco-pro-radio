@@ -1,0 +1,23 @@
+{
+  "name": "arco-pro-radio",
+  "title": "单选组",
+  "description": "",
+  "type": "react-component",
+  "category": [],
+  "group": 0,
+  "homepage": "",
+  "repository": "",
+  "author": "yinkaihui",
+  "screenshot": "",
+  "package": {
+    "name": "arco-pro-radio",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": [
+      "react",
+      "react-dom",
+      "@arco-design/web-react"
+    ]
+  }
+}

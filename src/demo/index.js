@@ -9,6 +9,6 @@
 
 /**
  * @name 基本用法
- * @description 描述你的例子
+ * @description 设置 `type=card` 即可展示 `card` 类型的单选框
  */
 export { default as Basic } from './basic';
