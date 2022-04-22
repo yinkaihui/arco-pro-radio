@@ -4,7 +4,7 @@
   "description": "",
   "type": "react-component",
   "category": [],
-  "group": 0,
+  "group": 11,
   "homepage": "",
   "repository": "",
   "author": "yinkaihui",
@@ -19,5 +19,6 @@
       "react-dom",
       "@arco-design/web-react"
     ]
-  }
+  },
+  "metaUpdateTime": 1649410673588
 }
